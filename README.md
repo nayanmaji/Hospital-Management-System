@@ -1,6 +1,7 @@
 # React + Vite
 # Hospital-Management-System
-
+About
+This code sets up a Hospital Management System using React. It includes routing for different user roles (patients, doctors, and admins) and provides various functionalities such as booking appointments, viewing doctor lists, and managing user accounts.
 
 # A video example of My project
 https://github.com/user-attachments/assets/20223d85-ca7b-4c59-b9be-6955cf4afb94

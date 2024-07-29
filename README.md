@@ -2,6 +2,10 @@
 # Hospital-Management-System
 
 
+# A video example of My project
+https://github.com/user-attachments/assets/20223d85-ca7b-4c59-b9be-6955cf4afb94
+
+# Some demo pages
 ![Screenshot 2024-07-29 001811](https://github.com/user-attachments/assets/634eb101-551d-48d6-b517-b777358ca8bb)
 ![Screenshot 2024-07-29 001834](https://github.com/user-attachments/assets/1088d350-845e-49d0-9747-cd8d5311162d)
 ![Screenshot 2024-07-29 001846](https://github.com/user-attachments/assets/a74d452c-da64-4f90-8469-dfdf25e6de7c)
